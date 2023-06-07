@@ -25,6 +25,10 @@
             <td>Dato 8</td>
         </tr>
     </table>
+    <form action="imagen.jsp">
+        <input type="submit" value="Ir a Imagen">
+    </form>
+    
 </div>
 </body>
 </html>
